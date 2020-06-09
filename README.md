@@ -1,8 +1,13 @@
-<<<<<<< HEAD
-# 네이버 종목토론실 크롤러
----
-### 종목 코드를 class에 입력하면 csv 파일로 저장해줍니다.
-=======
 # naver_finance_debate_crawler
+
 네이버 종목토론실 크롤러
->>>>>>> 6ecdbd3b154fd402e3413566dbc0a5caca6e058f
+
+## usage
+
+'''
+naver_crawler("종목명")
+'''
+
+## 추가할 거
+
+리팩토링하고 멀티프로세싱 추가해야됨
